@@ -1,4 +1,4 @@
-import java.util.Scanner; // единственный класс, который сипользовала для чтения ввода с клавиатуры
+import java.util.Scanner; // единственный класс, который использовала для чтения ввода с клавиатуры
 
 public class FenwickTree {
     private int[] tree;
